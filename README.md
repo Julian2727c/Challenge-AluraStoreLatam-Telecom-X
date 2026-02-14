@@ -1,8 +1,3 @@
-Gemini said
-Para que un README sea realmente interactivo y destaque en un portafolio o proceso de selección, debe ser visualmente atractivo, fácil de navegar y contar una historia clara.
-
-Aquí tienes una versión avanzada utilizando emojis, badges, bloques de código estructurados y secciones colapsables, ideal para GitHub.
-
 🚀 Telecom Churn Insight: Análisis de Evasión de Clientes
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
